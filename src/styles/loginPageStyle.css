@@ -1,0 +1,13 @@
+
+.login-form {
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: 15px 15px #00000018;
+}
+
+.center-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

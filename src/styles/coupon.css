@@ -1,0 +1,14 @@
+.coupon-card {
+    width: 15rem;
+    box-shadow: 0 .125rem .25rem rgb(96, 224, 182);
+}
+
+.coupon-card .delete-button {
+    float: right;
+}
+
+.coupon-card img {
+    display: block;
+    width: 100%;
+    height: 10rem;
+}
